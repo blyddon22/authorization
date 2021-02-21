@@ -1,0 +1,8 @@
+django
+djangorestframework
+djangorestframework-jsonapi
+djangorestframework-simplejwt
+django-filter
+pyyaml
+flake8
+boto3
